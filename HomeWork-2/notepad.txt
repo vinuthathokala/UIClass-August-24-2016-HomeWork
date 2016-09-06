@@ -1,0 +1,23 @@
+Semantic elements----------It describes meaning to both browser and developer.Elements that give meaning to webpage rather than presentation.
+
+
+Advantages of semantic elements-----It is useful for providing additional information about the documentation which aids in communication.It provides information about the contents of those tags that goes beyond just how they look on a page.
+It is impotant because it is
+1.clean---easier to read and edit which saves time and money during maintenance.
+2.More accessible
+3.Search engine friendly
+
+
+<article>-----self contained compositions of a web page.
+<aside>-----section of a page that consists of content that is tengentially related to content around the aside element and which is separate from that content.
+<details>----Additional information that user can view.
+<figcaption>-----caption for <figure> element
+<figure>------specifies self-contained contents like diagrams,lists.
+<header>----Defines header of document section
+<footer>-----Defines footer of document section
+<main>------Represents main content of a document or application.
+<mark>-----Defines highlighted text.
+<nav>------Defines navigation links.
+<section>----Defines grouping specfic portion sof content.
+<summary>Defines visible heading for a <details> element.
+<time> defines date/time.
